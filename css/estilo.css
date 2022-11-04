@@ -100,7 +100,7 @@ header hr {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
+  color: #333;
   text-align: center;
   height: 71vh;
   display: flex;
