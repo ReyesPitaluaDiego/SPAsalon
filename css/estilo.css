@@ -96,11 +96,11 @@ header hr {
 }
 
 .promociones {
-  background-image: url(imagenes/slide1.jpg);
+  background-image: url(../imagenes/slide1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: #333;
+  color: white;
   text-align: center;
   height: 71vh;
   display: flex;
